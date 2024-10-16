@@ -1,9 +1,9 @@
 ---
 <style>
-  p{
-    text-align:justify;
-    text-justify: inter-word;
-  }
+p{
+  text-align: justify;
+  text-justify: inter-word;
+}
 </style>
 permalink: /
 title: "Personal Website of Yiun Wang"
