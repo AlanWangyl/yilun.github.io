@@ -21,7 +21,7 @@ repository               : "AlanWangyl/yilun.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image.jpg"
+  avatar           : "download.png"
   name             : "Yilun Wang"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Economics"
