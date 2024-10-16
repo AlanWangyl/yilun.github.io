@@ -2,7 +2,7 @@
 <style>
   p{
     text-align:justify;
-    text-justify: inter-word
+    text-justify: inter-word;
   }
 </style>
 permalink: /
