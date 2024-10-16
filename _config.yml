@@ -12,7 +12,7 @@ title                    : "Yilun Wang / Homepage"
 title_separator          : "-"
 name                     : &name "Yilun Wang"
 description              : &description "PhD Candidate in Economics"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yilun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/yilun.github.io"
 
@@ -21,7 +21,7 @@ repository               : "academicpages/yilun.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "download.png"
+  avatar           : "111.png"
   name             : "Yilun Wang"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Economics"
