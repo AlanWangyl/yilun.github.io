@@ -12,9 +12,9 @@ title                    : "Yilun Wang / Homepage"
 title_separator          : "-"
 name                     : &name "Yilun Wang"
 description              : &description "PhD Candidate in Economics"
-url                      : https://yilun.github.io
+url                      : https://alanwangyl.github.io/yilun.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "AlanWangyl/yilun.github.io"
+repository               : "alanwangyl.github.io/yilun.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
